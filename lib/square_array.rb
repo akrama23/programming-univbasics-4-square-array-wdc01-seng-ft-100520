@@ -5,7 +5,6 @@ def square_array(numbers)
  
   while numbers < numbers ** 2 do 
     numbers ** 2 
-    
     counter += 1 
     
   
