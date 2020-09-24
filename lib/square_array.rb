@@ -3,7 +3,11 @@ def square_array(numbers)
  new_number = []
  counter = 0 
  
-  while numbers 
+  while numbers < numbers ** 2 do 
+    numbers ** 2 
+    
+    counter += 1 
+    
   
   end 
   
