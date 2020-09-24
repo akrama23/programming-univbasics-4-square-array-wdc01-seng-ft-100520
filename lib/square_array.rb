@@ -1,6 +1,6 @@
 def square_array(numbers)
- numbers = [1,2,3]
- new_numbers = [7,8,9]
+ numbers = [9,10,16,25]
+ new_numbers = []
  counter = 0 
  
   while counter < numbers.length  
